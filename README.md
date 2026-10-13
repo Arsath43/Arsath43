@@ -1,9 +1,31 @@
 ## Hi there 👋 It's me Arsath
 
-Software Engineer
+a Computer Science graduate and Software Engineer focused on Java backend and full-stack development.
 
-- 🌱 I’m currently learning and Actively Solving DSA problems and Integrating AI to my workflow
-- Previously interned with Thirdvizion.
+💻 Technical Focus
+
+Java, Spring Boot, REST APIs, Hibernate/JPA, and MySQL
+
+Spring Security, application testing, and database optimization
+
+React.js, TypeScript, and Docker
+
+🏗️ Currently Building
+
+Developing and improving backend applications and full-stack projects.
+
+Practicing Data Structures and Algorithms to strengthen problem-solving skills.
+
+Exploring AI-assisted development workflows to improve productivity while maintaining code quality.
+
+💼 Experience
+
+Previously worked as a Full Stack Developer Intern at Thirdvizion, contributing to a hospital management SaaS application.
+
+🚀 Open to Opportunities
+Looking for Software Engineer, SDE-1, and Java Backend Developer opportunities where I can contribute to building reliable software and continue growing as an engineer.
+
+🔗 LinkedIn · GitHub
 - ⚡ Fun fact: I maintain a Leetcode streak of over 123 days of continuous coding.
 - Social Presence
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamedarsathn) <br/> 
