@@ -21,4 +21,4 @@ Software Engineer
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Arsath_43?ext=contest&theme=dark)](https://leetcode.com/Arsath_43)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arsath43&bg_color=0e0108&color=d11515&line=d6c7d5&point=d33131&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arsath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arsath43&bg_color=0e0108&color=d11515&line=d6c7d5&point=d33131&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
